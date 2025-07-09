@@ -17,6 +17,7 @@ A simple Reddit-style web community portal built for EV Buddy's internship assig
 Login Page
 ![Login Page](public/Screenshots/login.png)
 
+<<<<<<< HEAD
 ###  Register Page
 ![Register Page](public/Screenshots/register.png)
 
@@ -25,6 +26,16 @@ Login Page
 
 ### admin Dashboard
 ![admin Dashboard](public/Screenshots/admin_dashboard.png)
+=======
+### 📝 Register Page
+![Register Page](public/Screenshots/register.png)
+
+### 🏠 Home Feed
+![Home Feed](public/Screenshots/home.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](public/Screenshots/admin.png)
+>>>>>>> d50d8c1 (Added working screenshot links to README)
 
 ##  Tech Stack
 
@@ -46,4 +57,8 @@ communehub/
 │ ├── firebase.js
 │ └── App.jsx
 ├── public/
+<<<<<<< HEAD
 ├── README.md
+=======
+├── README.md
+>>>>>>> d50d8c1 (Added working screenshot links to README)
