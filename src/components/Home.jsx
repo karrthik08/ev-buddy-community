@@ -70,7 +70,7 @@ const Home = () => {
       <div className="w-full max-w-3xl">
         {/* Header */}
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-2xl font-bold">👋 Welcome, {user.email}</h1>
+          <h1 className="text-2xl font-bold"> Welcome, {user.email}</h1>
           <button
             onClick={logout}
             className="bg-red-600 px-4 py-1 rounded hover:bg-red-700"
