@@ -14,7 +14,17 @@ A simple Reddit-style web community portal built for EV Buddy's internship assig
 
 ##  Screenshots
 
-![Homepage](
+Login Page
+![Login Page](public/Screenshots/login.png)
+
+###  Register Page
+![Register Page](public/Screenshots/register.png)
+
+###  Home Feed
+![Home Feed](public/Screenshots/home.png)
+
+### admin Dashboard
+![admin Dashboard](public/Screenshots/admin_dashboard.png)
 
 ##  Tech Stack
 
